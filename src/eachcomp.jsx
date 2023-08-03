@@ -16,8 +16,8 @@ const RecordList = () => {
     var dt = new Date();
     // dt.
     const records = [
-        { name: 'John Doe', ppnNumber: '123456', type: 'Type A', number: new Date("2021-03-25").toLocaleDateString('en-US') },
-        { name: 'Jane Smith', ppnNumber: '987654', type: 'Type B', number: new Date("2021-03-25").toLocaleDateString('en-US') },
+        { name: 'John Doe', ppnNumber: '123456', type: '334.44', number: new Date("2021-03-25").toLocaleDateString('en-US') },
+        { name: 'Jane Smith', ppnNumber: '987654', type: '223.22', number: new Date("2021-03-25").toLocaleDateString('en-US') },
         // Add more records as needed
     ];
 
